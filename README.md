@@ -65,7 +65,7 @@ The progress in learning can be observed by the predictions at each epoch
 </p>
 
 # Video
-The project required us to produce a 3 minutes video explaing our approach. 
+The project required us to produce a 3 minutes video explaining our approach. 
 
 https://user-images.githubusercontent.com/88252848/219075915-f0dc738e-6254-40e7-ad40-32489ccfecf9.mp4
 
