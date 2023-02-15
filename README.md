@@ -17,7 +17,7 @@ All the images had additive Gaussian Noise overimposed.
 <img src="/imgs/lll.jpeg" alt="" width="700"/>
 </p>
 
-The dataset contains a total of 820 images from 4 patients (respectively 280, 240, 150, 150).
+The dataset contained a total of 820 images from 4 patients (respectively 280, 240, 150, 150).
 
 # Preprocessing
 The preprocessing pipeling implemented tries to:
