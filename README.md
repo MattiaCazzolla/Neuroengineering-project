@@ -9,7 +9,7 @@ Project from the course Neuroengineering @ Politecnico di Milano
 - ####  Sara Rescalli (sara.rescalli@mail.polimi.it)
 
 # Dataset
-The dataset provoded was generated using the frames of Dynamic Supine MRI (dsMRI) videos recorded for different patients under specific speech protocols.
+The dataset provoded was generated using the frames of Dynamic Supine MRI (dsMRI) videos recorded for different patients under specific speech protocols. <br>
 All the images had additive Gaussian Noise overimposed.
 
 
@@ -20,7 +20,9 @@ All the images had additive Gaussian Noise overimposed.
 The dataset contains a total of 820 images from 4 patients (respectively 280, 240, 150, 150).
 
 # Preprocessing
-The preprocessing pipeling implemented tries to remove the Gaussian Noise with a Total variation denoising [technique](https://www.sciencedirect.com/science/article/abs/pii/016727899290242F?via%3Dihub) and to enhance the the high frequency component (borders).
+The preprocessing pipeling implemented tries to:
+- remove the Gaussian Noise with a Total variation denoising [technique](https://www.sciencedirect.com/science/article/abs/pii/016727899290242F?via%3Dihub)
+- enhance the high frequency component
 
 
 <p align="center">
@@ -35,11 +37,10 @@ The U-net architecture implemented consist of a variation from the IMU-NET descr
 </p>
 
 # Evaluation
-The images from the first two patients were used as Training Set, the ones from the third patient as Validation Set and the remaining, from the last patient, as Test Set. 
-
-<p align="center">
-<img src="/imgs/training.gif" alt="" width="250"/>
-</p>
+The images were splitted in the different dataset as follows:
+- Patient 1 and 2 $\rightarrow$ Training Set
+- Patient 3 $\rightarrow$ Validation Set
+- Patient 4 $\rightarrow$ Test Set
 
 The results on the test set are reported in the following table
 
@@ -55,8 +56,13 @@ The results on the test set are reported in the following table
 | Lower lip | 0.898  $\pm$ 0.018 |
 | Head | 0.968  $\pm$ 0.007 |
 
-  
 </div>
+
+The progress in learning can be pbserved by the predictions at each epoch
+
+<p align="center">
+<img src="/imgs/training.gif" alt="" width="250"/>
+</p>
 
 # Video
 The project required us to produce a video of 3 minutes explaing our approach. 
