@@ -3,8 +3,8 @@ Vocal Tract Segmentation with U-net based framework from MRI images with overimp
 
 Project from the course Neuroengineering @ Politecnico di Milano 
 - ####  Mattia Cazzolla  ([@MattiaCazzolla](https://github.com/MattiaCazzolla)) mattia.cazzolla@mail.polimi.it
-- ####  Alix de Langlais (alixanne.delanglais@mail.polimi.it)
-- ####  Paolo Marzolo (paolo.marzolo@mail.polimi.it)
+- ####  Alix de Langlais ([@Adelanglais](https://github.com/Adelanglais)) alixanne.delanglais@mail.polimi.it
+- ####  Paolo Marzolo ([@pollomarzo](https://github.com/pollomarzo)) paolo.marzolo@mail.polimi.it
 - ####  Olmo Notarianni (michelangeloolmo.nogara@mail.polimi.it)
 - ####  Sara Rescalli (sara.rescalli@mail.polimi.it)
 
