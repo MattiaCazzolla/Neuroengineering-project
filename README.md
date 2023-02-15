@@ -58,7 +58,7 @@ The results on the test set are reported in the following table
 
 </div>
 
-The progress in learning can be pbserved by the predictions at each epoch
+The progress in learning can be observed by the predictions at each epoch
 
 <p align="center">
 <img src="/imgs/training.gif" alt="" width="250"/>
