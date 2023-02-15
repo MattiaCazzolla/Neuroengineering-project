@@ -31,7 +31,7 @@ The preprocessing pipeling implemented tries to remove the Gaussian Noise with a
 The U-net architecture implemented consist of a variation from the IMU-NET described in this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260721000201?via%3Dihub)
 
 <p align="center">
-<img src="/imgs/unet.jpg" alt="" width="700"/>
+<img src="/imgs/unet.jpg" alt="" width="600"/>
 </p>
 
 # Evaluation
