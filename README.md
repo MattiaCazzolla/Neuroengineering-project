@@ -49,11 +49,11 @@ The results on the test set are reported in the following table
 | Class | DICE (mean $\pm$ std) | 
 |:-----------:|:----------------------:|
 | Background | 0.991  $\pm$ 0.001 |
-| Upper lip | 0.901  $\pm$ 0.033 |
-| Hard palate | 0.819  $\pm$ 0.045 |
-| Soft palate | 0.797  $\pm$ 0.059 |
+| Upper Lip | 0.901  $\pm$ 0.033 |
+| Lower Lip | 0.898  $\pm$ 0.018 |
+| Hard Palate | 0.819  $\pm$ 0.045 |
+| Soft Palate | 0.797  $\pm$ 0.059 |
 | Tongue | 0.931  $\pm$ 0.012 |
-| Lower lip | 0.898  $\pm$ 0.018 |
 | Head | 0.968  $\pm$ 0.007 |
 
 </div>
