@@ -21,7 +21,7 @@ The dataset contained a total of 820 images from 4 patients (respectively 280, 2
 
 # Preprocessing
 The preprocessing pipeling implemented tries to:
-- remove the Gaussian Noise with a Total variation denoising [technique](https://www.sciencedirect.com/science/article/abs/pii/016727899290242F?via%3Dihub)
+- remove the Gaussian noise with a Total Variation Denoising [technique](https://www.sciencedirect.com/science/article/abs/pii/016727899290242F?via%3Dihub)
 - enhance the high frequency component
 
 
