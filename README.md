@@ -9,7 +9,7 @@ Project from the course Neuroengineering @ Politecnico di Milano
 - ####  Sara Rescalli (sara.rescalli@mail.polimi.it)
 
 # Dataset
-The dataset provoded was generated using the frames of Dynamic Supine MRI (dsMRI) videos recorded for different patients under specific speech protocols. <br>
+The dataset provided was generated using the frames of Dynamic Supine MRI (dsMRI) videos recorded for different patients under specific speech protocols. <br>
 All the images had additive Gaussian Noise overimposed.
 
 
