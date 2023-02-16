@@ -1,5 +1,5 @@
 # Neuroengineering-project
-Vocal Tract Segmentation with U-net based framework from MRI images with overimposed Gaussian Noise
+Vocal Tract Segmentation with U-net based framework from MRI images with overimposed Gaussian noise
 
 Project from the course Neuroengineering @ Politecnico di Milano 
 - ####  Mattia Cazzolla  ([@MattiaCazzolla](https://github.com/MattiaCazzolla)) mattia.cazzolla@mail.polimi.it
@@ -10,7 +10,7 @@ Project from the course Neuroengineering @ Politecnico di Milano
 
 # Dataset
 The dataset provided was generated using the frames of Dynamic Supine MRI (dsMRI) videos recorded for different patients under specific speech protocols. <br>
-All the images had additive Gaussian Noise overimposed.
+All the images had additive Gaussian noise overimposed.
 
 
 <p align="center">
@@ -20,7 +20,7 @@ All the images had additive Gaussian Noise overimposed.
 The dataset contained a total of 820 images from 4 patients (respectively 280, 240, 150, 150).
 
 # Preprocessing
-The preprocessing pipeling implemented tries to:
+The preprocessing pipeline implemented tries to:
 - remove the Gaussian noise with a Total Variation Denoising [technique](https://www.sciencedirect.com/science/article/abs/pii/016727899290242F?via%3Dihub)
 - enhance the high frequency component
 
