@@ -69,5 +69,9 @@ The project required us to produce a 3 minutes video explaining our approach.
 
 https://user-images.githubusercontent.com/88252848/219075915-f0dc738e-6254-40e7-ad40-32489ccfecf9.mp4
 
+<br> 
+
+Voiced by: [@Adelanglais](https://github.com/Adelanglais), [@pollomarzo](https://github.com/pollomarzo) <br>
+Animated by: [@Adelanglais](https://github.com/Adelanglais), [@MattiaCazzolla](https://github.com/MattiaCazzolla)
 # Licence
 This project is licensed under the [MIT](LICENSE) License.
