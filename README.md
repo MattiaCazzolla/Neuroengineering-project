@@ -20,9 +20,9 @@ All the images had additive Gaussian noise overimposed.
 The dataset contained a total of 820 images from 4 patients (respectively 280, 240, 150, 150).
 
 # Preprocessing
-The preprocessing pipeline implemented tries to:
-- remove the Gaussian noise with a Total Variation Denoising [technique](https://www.sciencedirect.com/science/article/abs/pii/016727899290242F?via%3Dihub)
-- enhance the high frequency component
+The preprocessing pipeline implemented aims at:
+- Removing the Gaussian noise with a Total Variation Denoising technique ([link](https://www.sciencedirect.com/science/article/abs/pii/016727899290242F?via%3Dihub))
+- Enhancing the high frequency component
 
 
 <p align="center">
@@ -30,14 +30,14 @@ The preprocessing pipeline implemented tries to:
 </p>
 
 # Model
-The U-net architecture implemented consist of a variation from the IMU-NET described in this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260721000201?via%3Dihub)
+The U-net architecture implemented consists of a variation from the IMU-NET described in this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260721000201?via%3Dihub)
 
 <p align="center">
 <img src="/imgs/unet.jpg" alt="" width="600"/>
 </p>
 
 # Evaluation
-The images were splitted in the different dataset as follows:
+The images were split into different datasets as follows:
 - Patient 1 and 2 $\rightarrow$ Training Set
 - Patient 3 $\rightarrow$ Validation Set
 - Patient 4 $\rightarrow$ Test Set
@@ -58,7 +58,7 @@ The results on the test set are reported in the following table
 
 </div>
 
-The progress in learning can be observed by the predictions at each epoch
+The progress in learning can be observed by the segmentation at each epoch of the training
 
 <p align="center">
 <img src="/imgs/training.gif" alt="" width="250"/>
