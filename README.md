@@ -7,6 +7,7 @@ Project from the course Neuroengineering @ Politecnico di Milano
 - ####  Paolo Marzolo ([@pollomarzo](https://github.com/pollomarzo)) paolo.marzolo@mail.polimi.it
 - ####  Olmo Notarianni (michelangeloolmo.nogara@mail.polimi.it)
 - ####  Sara Rescalli (sara.rescalli@mail.polimi.it)
+Final grade: 32/30
 
 # Dataset
 The dataset provided was generated using the frames of Dynamic Supine MRI (dsMRI) videos recorded for different patients under specific speech protocols. <br>
